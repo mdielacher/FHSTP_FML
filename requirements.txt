@@ -1,7 +1,8 @@
-flwr
-seaborn
+numpy
 pandas
 matplotlib
-numpy
+seaborn
 flwr
-sklearn
+ray
+scikit-learn
+flwr_datasets
